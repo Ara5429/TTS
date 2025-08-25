@@ -19,7 +19,6 @@ Email the creators with any questions : info@stellonlabs.com
 - **Fast inference**: Optimized for real-time speech synthesis
 
 
-
 ## 🚀 Quick Start
 
 ### Installation
